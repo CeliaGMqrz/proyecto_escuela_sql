@@ -1,1 +1,3 @@
-# proyecto_escuela_sql
+# Proyecto de base de datos: Escuela infantil 
+
+
